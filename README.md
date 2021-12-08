@@ -34,3 +34,8 @@ The dataset for training was collected from [Roboflow](https://public.roboflow.c
 <!-- [Download TensorFlow Lite Model here]() -->
 <!-- <br> -->
 <!-- [Google Collab]() -->
+
+## Further Plans
+- [ ] Integrate the model with IOS/Android mobile app
+- [ ] Deploy the model on web page
+- [ ] Further improve the accuracy of model using other CNN architectures
