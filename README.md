@@ -31,9 +31,9 @@ The dataset for training was collected from [Roboflow](https://public.roboflow.c
 <!-- ![white_knight](src/knight.png) -->
 ![chess-1](src/chess-1.jpg)
 
-<!-- [Download TensorFlow Lite Model here]() -->
-<!-- <br> -->
-<!-- [Google Collab]() -->
+[Download TensorFlow Lite Model here](https://drive.google.com/file/d/1QcmJwUgNz1ZaWoF9EjES3OzDRK-0ks_F/view?usp=sharing)
+<br>
+[Google Collab](https://colab.research.google.com/drive/1s63yBOXuNJ4GjNYIqAgLYF2xnKDAYw_i?usp=sharing)
 
 ## Further Plans
 - [ ] Integrate the model with IOS/Android mobile app
