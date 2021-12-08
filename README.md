@@ -28,7 +28,7 @@ The dataset for training was collected from [Roboflow](https://public.roboflow.c
 
 
                                                       Model in Action
-![white_knight](src/knight.png)
+<!-- ![white_knight](src/knight.png) -->
 ![chess-1](src/chess-1.jpg)
 
 <!-- [Download TensorFlow Lite Model here]() -->
