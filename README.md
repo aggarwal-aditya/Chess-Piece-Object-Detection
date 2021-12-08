@@ -27,8 +27,7 @@ The dataset for training was collected from [Roboflow](https://public.roboflow.c
 **EfficientDet-Lite4** architecture has been used to train the model, it has the highest accuracy among all variants of EfficeintDet with a small tradeoff for latency & model size.
 
 
-                                                                     Model in Action
-
+                                                      Model in Action
 ![white_knight](src/knight.png)
 ![chess-1](src/chess-1.jpg)
 
