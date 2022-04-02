@@ -36,6 +36,6 @@ The dataset for training was collected from [Roboflow](https://public.roboflow.c
 [Google Collab](https://colab.research.google.com/drive/1s63yBOXuNJ4GjNYIqAgLYF2xnKDAYw_i?usp=sharing)
 
 ## Further Plans
-- [ ] Integrate the model with IOS/Android mobile app
+- [x] Integrate the model with IOS/Android mobile app
 - [ ] Deploy the model on web page
 - [X] Further improve the accuracy of model using other CNN architectures
